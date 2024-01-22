@@ -3,12 +3,6 @@
 
 - 🔭 I’m currently working on [LogisticsAssetManagement](https://github.com/HongjuanJiang-Ada/LogisticsAssetManagement)
 
-- 🌱 I’m currently learning **C++**
-
-- 📫 How to reach me **jianghongjuan1996@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/hongjuan-jiang/](https://www.linkedin.com/in/hongjuan-jiang/)
-
 - ⚡ Fun fact **I love sci-fi**
 
 <p align="left">
